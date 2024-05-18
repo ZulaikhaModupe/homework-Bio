@@ -1,0 +1,81 @@
+body{
+    background-color: #eeeeee;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+
+.secondContainer{
+    background-color: white;
+    padding: 2% 5%;
+    text-align: center;
+    box-shadow: -8px 0 0px -1px hsl(289, 32%, 90%);
+    }
+
+.profilePicture{
+    height: 10%;
+    width: 10%;
+    border-radius: 100%;
+}
+
+.profileButton{
+    background-color: #6d707a;
+    color: white;
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.iconOne > svg{
+    fill: #8729a6;
+}
+
+.iconTwo > svg{
+    fill: #8729a6;
+}
+
+.iconThree > svg{
+    fill: #8729a6;
+}
+
+.iconFour > svg{
+    fill: #8729a6;
+}
+
+.iconFive > svg{
+    fill: #8729a6;
+}
+
+
+
+
+.submit{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#message{
+    padding: 5px;
+    width: 100px;
+    color: #8729a6;
+    background-color: white;
+    border: 1px solid #8729a6;
+    border-radius: 2px;
+}
+
+#connect{
+    padding: 5px;
+    width: 100px;
+    color: white;
+    background-color: #8729a6;
+    border-radius: 2px;
+    border: none;
+}
